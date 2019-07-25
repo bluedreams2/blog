@@ -1,35 +1,29 @@
 #NewStarBlog
 
 
-## ½ø¶È
+## ï¿½ï¿½ï¿½ï¿½
 
-Íê³ÉÁËÒÔÏÂ¼¸¸öÕÂ½ÚÖÐµÄÊµÕ½´úÂë£º
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½ï¿½ï¿½Â½ï¿½ï¿½Ðµï¿½ÊµÕ½ï¿½ï¿½ï¿½ë£º
 
-* Quick Start£º`initializr-start`
-* Hello World£º`hello-world`
-* ~~´¦Àí Spring MVC ³£ÓÃ MediaType£¨Ã½ÌåÀàÐÍ£©£º`media-type`~~
-* Thymeleaf ÊµÕ½£º`thymeleaf-in-action`
-* Êý¾Ý³Ö¾Ã»¯ÊµÕ½£º`jpa-in-action`
-* È«ÎÄ¼ìË÷ÊµÕ½£º`elasticsearch-in-action`
-* Bootstrap ÊµÕ½£º`bootstrap-in-action`
-* ÐèÇó¼°Ô­ÐÍÉè¼Æ£º`blog-prototype`
-* ÓÃ»§¹ÜÀí£¨´ý¾«¼ò£©£º`blog-user`  
-* ½ÇÉ«¹ÜÀí¡¢È¨ÏÞ¹ÜÀí£¨´ý·ÖÀë£©£º`blog-auth`  
-* ²©¿Í¹ÜÀí£º`blog-blog`  
-* ÆÀÂÛ¹ÜÀí£º`blog-comment`  
-* µãÔÞ¹ÜÀí£º`blog-vote`  
-* ·ÖÀà¹ÜÀí£º`blog-catalog`  
-* ±êÇ©¹ÜÀí£º`blog-tag`  
-* Ê×Ò³ËÑË÷£º`blog-search`  
-* ÍêÕûÏîÄ¿£º`new-star-blog`  
+* Quick Startï¿½ï¿½`initializr-start`
+* Hello Worldï¿½ï¿½`hello-world`
+* ~~ï¿½ï¿½ï¿½ï¿½ Spring MVC ï¿½ï¿½ï¿½ï¿½ MediaTypeï¿½ï¿½Ã½ï¿½ï¿½ï¿½ï¿½ï¿½Í£ï¿½ï¿½ï¿½`media-type`~~
+* Thymeleaf ÊµÕ½ï¿½ï¿½`thymeleaf-in-action`
+* ï¿½ï¿½ï¿½Ý³Ö¾Ã»ï¿½ÊµÕ½ï¿½ï¿½`jpa-in-action`
+* È«ï¿½Ä¼ï¿½ï¿½ï¿½ÊµÕ½ï¿½ï¿½`elasticsearch-in-action`
+* Bootstrap ÊµÕ½ï¿½ï¿½`bootstrap-in-action`
+* ï¿½ï¿½ï¿½ï¿½Ô­ï¿½ï¿½ï¿½ï¿½Æ£ï¿½`blog-prototype`
+* ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò£©£ï¿½`blog-user`  
+* ï¿½ï¿½É«ï¿½ï¿½ï¿½ï¿½È¨ï¿½Þ¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£©ï¿½ï¿½`blog-auth`  
+* ï¿½ï¿½ï¿½Í¹ï¿½ï¿½ï¿½`blog-blog`  
+* ï¿½ï¿½ï¿½Û¹ï¿½ï¿½ï¿½`blog-comment`  
+* ï¿½ï¿½ï¿½Þ¹ï¿½ï¿½ï¿½`blog-vote`  
+* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`blog-catalog`  
+* ï¿½ï¿½Ç©ï¿½ï¿½ï¿½ï¿½`blog-tag`  
+* ï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½`blog-search`  
+* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¿ï¿½ï¿½`new-star-blog`  
 
-## ÈçºÎÔËÐÐ
-¼û¡¶SpringBoot²©¿ÍÏµÍ³Êý¾Ý³õÊ¼»¯²½Öè.docx¡·
+## ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½SpringBootï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½Ý³ï¿½Ê¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.docxï¿½ï¿½
 
-
-## ¸ü¶àITÑ§Ï°ÊÓÆµÇë·ÃÎÊ ¡°×ÔÑ§IT°ÉÂÛÌ³¡±  www.zxit8.com
-
-## ¸ü¶àITÑ§Ï°ÊÓÆµÇë·ÃÎÊ ¡°×ÔÑ§IT°ÉÂÛÌ³¡±  www.zxit8.com
-
-## ¸ü¶àITÑ§Ï°ÊÓÆµÇë·ÃÎÊ ¡°×ÔÑ§IT°ÉÂÛÌ³¡±  www.zxit8.com
 
